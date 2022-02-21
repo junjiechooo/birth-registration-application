@@ -1,0 +1,15 @@
+
+{
+    "data": [
+        {
+            "question": "What is the capital of Croatia?",
+            "choices": ["Yes", "No"],
+            "answer": "Yes"
+        },
+        {
+            "question": "1What is the capital of Croatia?",
+            "choices": ["Yes", "No"],
+            "answer": "Yes"
+        }
+    ]
+}
